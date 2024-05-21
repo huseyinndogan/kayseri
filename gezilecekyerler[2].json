@@ -1,0 +1,17 @@
+[
+  {
+    "isim": "Kayseri",
+    "aciklama": "Erciyes Dağı nın yamacında bulunan, mantısıyla ünlü şehir.",
+    "fotour1": "https://raw.githubusercontent.com/ilker-Akbal/aydin/master/kusadasi.png"
+  },
+  {
+    "isim": "talas",
+    "aciklama": "Kayseri nin en işlek ilçesi olarak geçer.",
+    "fotour1": "https://raw.githubusercontent.com/ilker-Akbal/aydin/master/didim.png"
+  },
+  {
+    "isim": "melikgazi",
+    "aciklama": "Şehrin en büyük ilçesidir.",
+    "fotour1": "https://raw.githubusercontent.com/ilker-Akbal/aydin/master/merkez.png"
+  }
+]
